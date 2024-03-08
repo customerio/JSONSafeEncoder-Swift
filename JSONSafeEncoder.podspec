@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.module_name      = 'JSONSafeEncoder'
   s.version          = '1.0.2'
   s.summary          = 'JSONSafeEncoder-Swift Cocoapods support.'
-  s.homepage         = 'https://github.com/customerio/JSONSafeEncoder-Swift.git'
+  s.homepage         = 'https://github.com/customerio/JSONSafeEncoder-Swift'
   s.license          = { :type => 'MIT', :file => './LICENSE' }
   s.authors          = "Segment, Inc."
   s.source           = { :git => 'https://github.com/customerio/JSONSafeEncoder-Swift.git', :branch => 'main' }
